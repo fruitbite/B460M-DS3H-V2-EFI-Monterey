@@ -1,6 +1,6 @@
 # B460M DS3H V2 i5 10400 + RX 6600 EFI
 
-Works and Tested on Monterey
+Works and Tested on Monterey 12.3
 
 Specs:
 
