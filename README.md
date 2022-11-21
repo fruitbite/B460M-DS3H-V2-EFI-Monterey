@@ -25,4 +25,3 @@ What doesn't work:
 
 Set BIOS Settings to Open Core Comet Lake settings and disable Integrated GPU
 
-
